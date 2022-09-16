@@ -2,11 +2,11 @@
 
 ### Hey, I'm [Adam](https://adamcoscia.github.io/)!👋 
 
-👀 I build visual analytics tools for **interactive ML**, **explainable AI**, and **[mitigating cognitive bias](https://github.com/lumos-vis)**.
+👀 I help people make sense of complex data by designing and building visual analytics tools for explaining black-box models and [combating cognitive bias](https://github.com/lumos-vis) in artificial intelligence, data analysis, and the natural sciences.
 
-🌱 I'm currently a PhD student at Georgia Tech. I work with [Alex Endert](https://va.gatech.edu/endert/) as a member of the [Visual Analytics Lab](https://gtvalab.github.io/).
+🌱 I'm currently a Human-Centered Computing PhD student at Georgia Tech. I work with [Alex Endert](https://va.gatech.edu/endert/) as a member of the [Visual Analytics Lab](https://gtvalab.github.io/).
 
-💞️ I've collaborated with incredible designers, engineers, and scientists at NASA Jet Propulsion Laboratory, Caltech, and Emory.
+💞️ I've collaborated with incredible designers, engineers, and scientists at NASA Jet Propulsion Laboratory, Caltech, Emory, and Tufts universities.
 
 ## Reach Me 📫
 
