@@ -10,8 +10,12 @@
 
 ## Reach Me 📫
 
-- [My Website](https://adamcoscia.github.io/)
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=diVuti8AAAAJ)
-- [LinkedIn](https://www.linkedin.com/in/adam-coscia/)
-- [Twitter](https://twitter.com/AdamCoscia)
-- [GitHub](https://github.com/AdamCoscia)
+<table>
+  <tr>
+    <td><a href="https://adamcoscia.github.io/" target="_blank">🪪 My Website</a></td>
+    <td><a href="https://scholar.google.com/citations?hl=en&user=diVuti8AAAAJ" target="_blank">📜 Google Scholar</a></td>
+    <td><a href="https://www.linkedin.com/in/adam-coscia/" target="_blank">🤝 LinkedIn</a></td>
+    <td><a href="https://twitter.com/AdamCoscia" target="_blank">🐦 Twitter</a></td>
+    <td><a href="https://github.com/AdamCoscia" target="_blank">💻 GitHub</a></td>
+  </tr>
+</table>
