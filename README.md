@@ -16,6 +16,5 @@
     <td><a href="https://scholar.google.com/citations?hl=en&user=diVuti8AAAAJ" target="_blank">📜 Google Scholar</a></td>
     <td><a href="https://www.linkedin.com/in/adam-coscia/" target="_blank">🤝 LinkedIn</a></td>
     <td><a href="https://twitter.com/AdamCoscia" target="_blank">🐦 Twitter</a></td>
-    <td><a href="https://github.com/AdamCoscia" target="_blank">💻 GitHub</a></td>
   </tr>
 </table>
