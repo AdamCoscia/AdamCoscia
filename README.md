@@ -2,7 +2,7 @@
 
 ### Hey, I'm [Adam](https://adamcoscia.github.io/)!👋 
 
-👀 I build novel data visualization and analytics tools for scientists, researchers and engineers, helping them make decisions, understand how AI works, and [mitigate cognitive bias](https://github.com/lumos-vis).
+👀 I build novel data visualization and analytics tools for scientists, researchers and engineers, helping them understand how AI/ML works, make decisions, and mitigate biases.
 
 🌱 I'm currently a Human-Centered Computing PhD student at Georgia Tech. I work with [Alex Endert](https://va.gatech.edu/endert/) as a member of the [Visual Analytics Lab](https://gtvalab.github.io/).
 
