@@ -6,7 +6,7 @@
 
 🌱 I'm currently a Human-Centered Computing PhD student at Georgia Tech. I work with [Alex Endert](https://va.gatech.edu/endert/) as a member of the [Visual Analytics Lab](https://gtvalab.github.io/).
 
-💞️ I've collaborated with incredible designers, engineers, and scientists at NASA Jet Propulsion Laboratory, Caltech, Emory, and Tufts universities.
+💞️ I've collaborated with incredible designers, engineers, scientists, and researchers at NASA Jet Propulsion Laboratory, Caltech, Vanderbilt, Tufts, and Emory.
 
 ## Reach Me 📫
 
