@@ -1,6 +1,6 @@
 # About Me
 
-### Hey, I'm [Adam](https://adamcoscia.github.io/)!👋 
+### Hey, I'm [Adam](https://adamcoscia.com)!👋 
 
 👀 I design and develop visual analytics systems to help people understand complex data, mitigate biases, and make decisions. My tools have been used by researchers, scientists and engineers for analyzing and interpreting LLMs 🤖, guiding deep ocean expeditions 🌊 and enabling scientist-guided spacecraft autonomy 🚀.
 
