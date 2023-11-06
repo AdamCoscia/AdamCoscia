@@ -1,6 +1,6 @@
 # About Me
 
-### Hey, I'm [Adam](https://adamcoscia.com)!👋 
+### [Hey, I'm Adam](https://adamcoscia.com)! 👋 
 
 👀 I design and develop visual analytics systems to help people understand complex data, mitigate biases, and make decisions. My tools have been used by researchers, scientists and engineers for analyzing and interpreting LLMs 🤖, guiding deep ocean expeditions 🌊 and enabling scientist-guided spacecraft autonomy 🚀.
 
@@ -12,9 +12,9 @@
 
 <table>
   <tr>
-    <td><a href="https://adamcoscia.com" target="_blank">🪪 My Website</a></td>
-    <td><a href="https://scholar.google.com/citations?hl=en&user=diVuti8AAAAJ" target="_blank">📜 Google Scholar</a></td>
-    <td><a href="https://www.linkedin.com/in/adam-coscia/" target="_blank">🤝 LinkedIn</a></td>
-    <td><a href="https://twitter.com/AdamCoscia" target="_blank">🐦 Twitter</a></td>
+    <td>🪪 <a href="https://adamcoscia.com" target="_blank">My Website</a></td>
+    <td>📜 <a href="https://scholar.google.com/citations?hl=en&user=diVuti8AAAAJ" target="_blank">Google Scholar</a></td>
+    <td>🤝 <a href="https://www.linkedin.com/in/adam-coscia/" target="_blank">LinkedIn</a></td>
+    <td>🐦 <a href="https://twitter.com/AdamCoscia" target="_blank">Twitter</a></td>
   </tr>
 </table>
