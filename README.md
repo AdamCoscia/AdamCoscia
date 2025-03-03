@@ -1,12 +1,13 @@
 # Hey, I'm [Adam](https://adamcoscia.com)! 👋 
 
-💻 I design and develop **user interfaces** that **visualize** complex data, helping people identify, understand, and reduce **risks** to make smarter, more informed **decisions**
+💻 I research and build novel visual analytics **interfaces** that empower people to discover rich insights in complex **data** for making smarter, more informed **decisions**. My current focus is on leveraging and evaluating **LLMs** in complex workflows.
 
-⭐ My research is helping **analysts**, **engineers**, **scientists**, and everyday **users**:
-- interpret how large language models (LLMs) work 🤖 
-- ensure AI is trustworthy in education 🎓 
-- develop scientist-guided spacecraft autonomy 🚀 
-- conduct fieldwork during deep ocean expeditions 🌊
+⭐ My work has helped analysts, engineers, scientists, and everyday users:
+- have smarter, goal-informed conversations with LLMs 🤖
+- measure the trustworthiness of LLMs in education 🎓
+- use AI to summarize & visualize intelligence data 🕵️
+- develop scientist-guided spacecraft autonomy 🚀
+- conduct scientific fieldwork during deep ocean expeditions 🌊
 - mitigate cognitive biases during data analysis 📊
 
 🌱 I'm currently a **Human-Centered Computing PhD student** at Georgia Tech. I work with [Alex Endert](https://va.gatech.edu/endert/) as a member of the [Visual Analytics Lab](https://gtvalab.github.io/)
