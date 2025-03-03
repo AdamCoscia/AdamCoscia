@@ -12,7 +12,7 @@
 
 🌱 I'm currently a **Human-Centered Computing PhD student** at Georgia Tech. I work with [Alex Endert](https://va.gatech.edu/endert/) as a member of the [Visual Analytics Lab](https://gtvalab.github.io/)
 
-💞️ I've collaborated with incredible designers, researchers, engineers, and scientists at Adobe Research, NASA Jet Propulsion Laboratory (JPL), Caltech, Vanderbilt, Georgia State, Tufts, Emory, ArtCenter, and the Monterey Bay Aquarium Research Institute (MBARI)
+💞️ I've collaborated with incredible designers, researchers, engineers, and scientists at the National Security Agency (NSA), NASA Jet Propulsion Laboratory (JPL), Adobe Research, Caltech, Vanderbilt, Georgia State, Tufts, Emory, ArtCenter, and the Monterey Bay Aquarium Research Institute (MBARI).
 
 ---
 
