@@ -1,6 +1,6 @@
 # Hey, I'm [Adam](https://adamcoscia.com)! 👋 
 
-💻 I research and build novel visual analytics **interfaces** that empower people to discover rich insights in complex **data** for making smarter, more informed **decisions**. My current focus is on leveraging and evaluating **LLMs** in complex workflows.
+💻 I research and build novel visual analytics **interfaces** that empower people to discover rich insights in complex **data** for making smarter, more informed **decisions**. My current focus is on leveraging and evaluating **AI** in complex workflows.
 
 ⭐ My work has helped analysts, engineers, scientists, and everyday users:
 - have smarter, goal-informed conversations with LLMs 🤖
