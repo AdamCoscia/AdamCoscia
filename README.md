@@ -4,11 +4,12 @@
 
 ⭐ My work has helped analysts, engineers, scientists, and everyday users:
 - have smarter, goal-informed conversations with LLMs 🤖
-- measure the trustworthiness of LLMs in education 🎓
-- use AI to summarize & visualize intelligence data 🕵️
-- develop scientist-guided spacecraft autonomy 🚀
-- conduct scientific fieldwork during deep ocean expeditions 🌊
-- mitigate cognitive biases during data analysis 📊
+- [use AI to summarize & visualize intelligence data](https://adamcoscia.com/papers/vispile/) 🕵️
+- [measure the trustworthiness of LLMs in education](https://adamcoscia.com/papers/iscore/) 🎓
+- [conduct scientific fieldwork during deep ocean expeditions](https://adamcoscia.com/papers/deepsee/) 🌊
+- [evaluate the embedded world knowledge of LLMs](https://adamcoscia.com/papers/knowledgevis/) 🗺️
+- [develop scientist-guided spacecraft autonomy](https://adamcoscia.com/papers/rerank/) 🚀
+- [mitigate cognitive biases during data analysis](https://adamcoscia.com/papers/lumos/) 📊
 
 🌱 I'm currently a **Human-Centered Computing PhD student** at Georgia Tech. I work with [Alex Endert](https://va.gatech.edu/endert/) as a member of the [Visual Analytics Lab](https://gtvalab.github.io/)
 
