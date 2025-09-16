@@ -1,5 +1,8 @@
 # Hey, I'm [Adam](https://adamcoscia.com)! 👋 
 
+> [!IMPORTANT]
+> I am on the job market for Fall 2026! I'm seeking either a **tenure-track faculty research position** at a US research university, or a **research scientist role** at a US national laboratory or FFRDC. Check out my website (<https://adamcoscia.com/>) for my latest work and send any positions my way that fit me. Thank you! 💞
+
 💻 I research how to build new visual analytics **interfaces** that empower people to discover rich **insights** in complex data and make smarter, more data-driven **decisions**. My current focus is on leveraging and evaluating **AI** in complex data analysis workflows.
 
 ⭐ My work has helped analysts, engineers, scientists, and everyday users:
@@ -13,7 +16,7 @@
 
 🌱 I'm currently a **Human-Centered Computing PhD student** at Georgia Tech. I work with [Alex Endert](https://va.gatech.edu/endert/) as a member of the [Visual Analytics Lab](https://gtvalab.github.io/)
 
-💞️ I've collaborated with incredible designers, researchers, engineers, and scientists at MIT Lincoln Laboratory, National Security Agency (NSA), Adobe Research, NASA Jet Propulsion Laboratory (JPL), Caltech, Vanderbilt, Georgia State, Tufts, Emory, ArtCenter College of Design, and the Monterey Bay Aquarium Research Institute (MBARI).
+💞️ I've collaborated with incredible designers, researchers, engineers, and scientists at MIT Lincoln Laboratory, the National Security Agency (NSA), Adobe Research, NASA Jet Propulsion Laboratory (JPL), Caltech, Vanderbilt, Georgia State, Tufts, Emory, ArtCenter College of Design, and the Monterey Bay Aquarium Research Institute (MBARI).
 
 ---
 
