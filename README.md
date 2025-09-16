@@ -1,7 +1,7 @@
 # Hey, I'm [Adam](https://adamcoscia.com)! 👋 
 
 > [!IMPORTANT]
-> I am on the job market for Fall 2026! I'm seeking either a **tenure-track faculty research position** at a US research university, or a **research scientist role** at a US national laboratory or FFRDC. Check out my website (<https://adamcoscia.com/>) for my latest work and send any positions my way that fit me. Thank you! 💞
+> I am on the job market for Fall 2026! I'm seeking either a **tenure-track faculty position** at a US research university, or a **research scientist role** at a US national laboratory or FFRDC. Check out my website (<https://adamcoscia.com/>) for my latest work and send any positions my way that fit me. Thank you! 💞
 
 💻 I research how to build new visual analytics **interfaces** that empower people to discover rich **insights** in complex data and make smarter, more data-driven **decisions**. My current focus is on leveraging and evaluating **AI** in complex data analysis workflows.
 
